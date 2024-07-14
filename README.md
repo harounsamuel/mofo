@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
