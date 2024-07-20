@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
